@@ -4,5 +4,5 @@ compatibility_date = "2024-10-03"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "newsnow-db"
-database_id = ""
+database_name = "morning-silence-ae86-d1"
+database_id = "a13bdd51-b5d0-4702-a198-74e6347ba2e8"
